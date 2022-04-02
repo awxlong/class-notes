@@ -1,4 +1,4 @@
-# Notes:RE
+# Notes:re
 Here is a list of small projects or notebooks where I share with you what I've learned in my journey with Artificial Intelligence. 
 
 Topics include:
