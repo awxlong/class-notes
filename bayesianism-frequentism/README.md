@@ -1,4 +1,4 @@
-# Excerpt from _A dialogue between Bayesianism and Frequentism
+# Excerpt from _A dialogue between Bayesianism and Frequentism_
 
 _The following is a dialogue which aims at introducing us the dichotomy between Bayesianism and Frequentism, 
 the two majors schools of statistical inference whose disagreements stem from fundamentally different philosophical 
@@ -43,3 +43,5 @@ Sprenger, J. (2013). Bayesianism vs. Frequentism in Statistical Inference. http:
 VanderPlas, J. (2014a). Frequentism and Bayesianism: A Practical Introduction | Pythonic Perambulations. Jakevdp.github.io. http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/
 
 VanderPlas, J. (2014b). Frequentism and Bayesianism: A Python-driven Primer. Arx. https://doi.org/https://doi.org/10.48550/arXiv.1411.5018
+
+Dataset used from https://www.kaggle.com/datasets/mirichoi0218/insurance
